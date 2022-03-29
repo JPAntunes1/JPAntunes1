@@ -1,7 +1,8 @@
 <h2> Olá! Eu sou o João Pedro Antunes</h2>
 
-- Hoje trabalho na área do Direito, mas estou migrando para me tornar um desenvolvedor
+- Sou formado e trabalho na área do Direito, mas estou migrando para me tornar um desenvolvedor
 - Atualmente estou estudando Python (minha grande paixão 😅), Dart e Flutter (para desenvolvimento mobile), Javascript, HTML, CSS e Bancos de Dados SQL/NoSQL.
+
 
 <div align="center">
   <a href="https://github.com/JPAntunes1">
