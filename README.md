@@ -1,7 +1,7 @@
 <h2> Olá! Eu sou o João Pedro Antunes</h2>
 
 - Sou formado e trabalho na área do Direito, mas estou migrando para me tornar um desenvolvedor
-- Atualmente estou estudando Python (minha grande paixão 😅), Dart e Flutter (para desenvolvimento mobile), Javascript, HTML, CSS e Bancos de Dados SQL/NoSQL.
+- Atualmente estou estudando Python (minha grande paixão 😅), React Native e Flutter (para desenvolvimento mobile), Dart, Javascript, HTML, CSS e Bancos de Dados SQL/NoSQL.
 
 
 <div align="center">
@@ -12,6 +12,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Joao-React-Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
