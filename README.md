@@ -1,7 +1,8 @@
 <h2> Olá! Eu sou o João Pedro Antunes</h2>
 
-- Sou formado e trabalho na área do Direito, mas estou migrando para me tornar um desenvolvedor
-- Atualmente estou estudando Python (minha grande paixão 😅), React Native e Flutter (para desenvolvimento mobile), Dart, Javascript, HTML, CSS e Bancos de Dados SQL/NoSQL.
+- Sou formado e trabalho na área do Direito, mas estou em transição para área de Desenvolvimento e Programação Mobile e Web.
+- Atualmente estou realizando de diversos cursos de capacitação e habilitação para desenvolvimento de aplicativos e sites em Back-end e Front-end.
+
 
 
 <div align="center">
@@ -11,13 +12,14 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Joao-React-Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Joao-Dart" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"> 
+  <img align="center" alt="Joao-React-Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">  
+  <img align="center" alt="Joao-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">   
+  <img align="center" alt="Joao-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">  
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Joao-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Joao-Dart" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">          
   </div>
   
   ##
